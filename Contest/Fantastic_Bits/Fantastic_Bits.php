@@ -4,6 +4,8 @@
  * Move towards a Snaffle and use your team id to determine where you need to throw it.
  **/
 
+// Ranked at 831/2399
+
 fscanf(STDIN, "%d",
     $myTeamId // if 0 you need to score on the right of the map, if 1 you need to score on the left
 );
